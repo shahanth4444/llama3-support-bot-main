@@ -410,4 +410,6 @@ For issues or questions:
 
 **Last Updated**: May 7, 2026  
 **Project Status**: ✅ Complete & Production-Ready  
-**Model**: Llama 3.2 3B via Ollama
+**Model**: Llama 3.2 3B via Ollama  
+**Repository**: [github.com/shahanth4444/llama3-support-bot-main](https://github.com/shahanth4444/llama3-support-bot-main)  
+**Total Commits**: 20+
